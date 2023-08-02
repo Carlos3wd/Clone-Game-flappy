@@ -18,6 +18,10 @@ canvas {
     z-index: 1;
 
 }
+
+.backdrop-blur {
+    filter: blur(5px);
+}
  
 #end-menu {
     /* we will display the display of the end-menu */
